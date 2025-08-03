@@ -1,0 +1,10 @@
+**Yes. Needed:**
+> Option to launch a stream (and if possible vods) in the browser in popout mode so it's only the stream, no site, no chat. This is so browser adblock extensions work if wanted for a important stream.
+
+- https://player.twitch.tv/?channel=STREAMER&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1.0
+
+*Maybes:*
+> Ability to browse twitch via provided catergory, term, or top streamers to some degree if simple enough.
+
+*Probably Not:*
+> Option to retrieve streamers from follow list and put them in the streamers-list or to a new list. Seems unnecessary.
